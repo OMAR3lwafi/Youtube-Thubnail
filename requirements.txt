@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+yt-dlp==2023.11.16
+pydub==0.25.1
+openai==1.3.0
+moviepy==1.0.3
+python-multipart==0.0.6
+pydantic==2.5.2
+requests==2.31.0
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1 
